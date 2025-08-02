@@ -1,16 +1,16 @@
-# travelbook
+# Travel Booking App UI
+A Flutter UI project for a travel ticket booking mobile application.
 
-A new Flutter project.
+## Features
+- Browse available travel destinations
+- Select travel dates and view trip details
+- Clean and responsive layout for different screen sizes
+- Modular widget structure for maintainable code
 
-## Getting Started
+## Tech Stack
+- Flutter & Dart
+- Material Design components
+- Responsive UI design principles
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes
+This project is frontend-only and does not include backend integration or payment functionality.
